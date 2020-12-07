@@ -272,7 +272,7 @@ class Hatchery(Spawning_Pool):
         return Larva(self.owner)
 
 
-# /Comment/ To show class let's play a little game
+# Part 0: To show class let's play a little game
 
 # CoolJoker = Player(150, 0)
 # cooljokers_hatchery = Hatchery(CoolJoker)
