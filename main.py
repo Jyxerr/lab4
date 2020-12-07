@@ -325,7 +325,7 @@ class Hatchery(Spawning_Pool):
 # for building in CoolJoker.own_buildings:
     # print(building.name, 'B')
 
-# Part 7.1: Now we are starting roach evolving
+# Part 7: Now we are starting roach evolving
 
 # cnt = 0
 # while cnt < 4:
@@ -403,6 +403,6 @@ class Hatchery(Spawning_Pool):
         # Jamazex.own_units[0].death()
 
 # Part 11: Great, we won, let's BM him a little
-# if len(Jamazex.own_units):
+# if len(Jamazex.own_units) == 0:
     # print('Ha-ha, weak platinum rating player')
 # /Comment/ Don't BM people in the real matches
